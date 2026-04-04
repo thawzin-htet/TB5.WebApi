@@ -1,0 +1,6 @@
+@TB5.WebApi_HostAddress = http://localhost:5030
+
+GET {{TB5.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

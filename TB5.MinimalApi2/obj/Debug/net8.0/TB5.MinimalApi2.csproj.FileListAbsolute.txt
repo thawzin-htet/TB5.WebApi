@@ -1,0 +1,8 @@
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.csproj.AssemblyReference.cache
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.AssemblyInfoInputs.cache
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.AssemblyInfo.cs
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.csproj.CoreCompileInputs.cache
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\ACER\source\repos\TB5.MinimalApi2\obj\Debug\net8.0\TB5.MinimalApi2.MvcApplicationPartsAssemblyInfo.cache
