@@ -1,6 +1,0 @@
-@TB5.MinimalApi_HostAddress = http://localhost:5299
-
-GET {{TB5.MinimalApi_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
