@@ -1,0 +1,12 @@
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\bin\Debug\net8.0\TB5.Domain.deps.json
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\bin\Debug\net8.0\TB5.Domain.dll
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\bin\Debug\net8.0\TB5.Domain.pdb
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.AssemblyInfoInputs.cache
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.AssemblyInfo.cs
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.csproj.CoreCompileInputs.cache
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.sourcelink.json
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.dll
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\refint\TB5.Domain.dll
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\TB5.Domain.pdb
+D:\Users\ACER\source\repos\TB5.WebApi\TB5.Domain\obj\Debug\net8.0\ref\TB5.Domain.dll
