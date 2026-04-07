@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Users\\ACER\\source\\repos\\TB5.WebApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\tb5.minimalapi2.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\services\\productadoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\services\\productefservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\services\\productdapperservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E02008-B849-567E-1906-F0F00CB1835B}|TB5.WebApi.csproj|d:\\users\\acer\\source\\repos\\tb5.webapi\\models\\tblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E02008-B849-567E-1906-F0F00CB1835B}|TB5.WebApi.csproj|solutionrelative:models\\tblproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79580DE5-1938-4857-9B9A-AA38B1B4D1A4}|..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj|d:\\users\\acer\\source\\repos\\tb5.minimalapi2\\tb5.minimalapi2.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16E02008-B849-567E-1906-F0F00CB1835B}|TB5.WebApi.csproj|d:\\users\\acer\\source\\repos\\tb5.webapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16E02008-B849-567E-1906-F0F00CB1835B}|TB5.WebApi.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388448E3-F04A-42A5-B4FC-66241924BC1C}|..\\..\\..\\TB5.WebApi\\TB5.WebApi.Database\\TB5.WebApi.Database.csproj|d:\\users\\acer\\tb5.webapi\\tb5.webapi.database\\tb5.webapi.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{388448E3-F04A-42A5-B4FC-66241924BC1C}|..\\..\\..\\TB5.WebApi\\TB5.WebApi.Database\\TB5.WebApi.Database.csproj|d:\\users\\acer\\tb5.webapi\\tb5.webapi.database\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\Models\\Product.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Models\\Product.cs",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:55:19.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\IProductService.cs",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:54:19.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductEfService.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\ProductEfService.cs",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\Services\\ProductEfService.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\ProductEfService.cs",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\Services\\ProductEfService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:54:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDapperService.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\ProductDapperService.cs",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\Services\\ProductDapperService.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\ProductDapperService.cs",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\Services\\ProductDapperService.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:53:26.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductAdoService.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\ProductAdoService.cs",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\Services\\ProductAdoService.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Services\\ProductAdoService.cs",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\Services\\ProductAdoService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAiwE8AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T12:53:22.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TB5.MinimalApi2.csproj",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\TB5.MinimalApi2.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-04T11:59:23.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TB5.MinimalApi2.http",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\TB5.MinimalApi2.http",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\TB5.MinimalApi2.http",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\TB5.MinimalApi2.http",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\TB5.MinimalApi2.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-04-03T15:43:40.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TB5.MinimalApi2\\Program.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.MinimalApi2\\Program.cs",
+              "RelativeToolTip": "..\\TB5.MinimalApi2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T15:40:27.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TblProduct.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.WebApi\\Models\\TblProduct.cs",
+              "RelativeDocumentMoniker": "Models\\TblProduct.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.WebApi\\Models\\TblProduct.cs",
+              "RelativeToolTip": "Models\\TblProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T10:44:10.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\source\\repos\\TB5.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Users\\ACER\\source\\repos\\TB5.WebApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T08:53:29.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TB5.WebApi.Database.csproj",
+              "DocumentMoniker": "D:\\Users\\ACER\\TB5.WebApi\\TB5.WebApi.Database\\TB5.WebApi.Database.csproj",
+              "RelativeDocumentMoniker": "..\\..\\..\\TB5.WebApi\\TB5.WebApi.Database\\TB5.WebApi.Database.csproj",
+              "ToolTip": "D:\\Users\\ACER\\TB5.WebApi\\TB5.WebApi.Database\\TB5.WebApi.Database.csproj",
+              "RelativeToolTip": "..\\..\\..\\TB5.WebApi\\TB5.WebApi.Database\\TB5.WebApi.Database.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-27T14:25:41.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Users\\ACER\\TB5.WebApi\\TB5.WebApi.Database\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\TB5.WebApi\\TB5.WebApi.Database\\Class1.cs",
+              "ToolTip": "D:\\Users\\ACER\\TB5.WebApi\\TB5.WebApi.Database\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\TB5.WebApi\\TB5.WebApi.Database\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-27T14:23:57.923Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
