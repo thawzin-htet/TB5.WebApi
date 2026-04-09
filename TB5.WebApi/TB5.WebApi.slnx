@@ -1,6 +1,0 @@
-<Solution>
-  <Project Path="../../../TB5.WebApi/TB5.WebApi.Database/TB5.WebApi.Database.csproj" Id="388448e3-f04a-42a5-b4fc-66241924bc1c" />
-  <Project Path="../TB5.MinimalApi2/TB5.MinimalApi2.csproj" Id="79580de5-1938-4857-9b9a-aa38b1b4d1a4" />
-  <Project Path="ConsoleApp1/TB5.ConsoleApp1.csproj" Id="ec3c0c6a-04f1-4f60-be43-3b6c75452ef0" />
-  <Project Path="TB5.WebApi.csproj" />
-</Solution>
