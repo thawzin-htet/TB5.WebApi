@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "qhI1Pahh3zA=",
+  "success": true,
+  "projectFilePath": "D:\\Users\\ACER\\source\\repos\\TB5.WebApi\\ConsoleApp1\\TB5.ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ACER\\.nuget\\packages\\newtonsoft.json\\13.0.4\\newtonsoft.json.13.0.4.nupkg.sha512",
+    "C:\\Users\\ACER\\.nuget\\packages\\restsharp\\114.0.0\\restsharp.114.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
